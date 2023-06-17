@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
-* main - entry point
-*
-* statement : if its > 0 or = 0 or < 0 we print some statemeent 
-*
-* return: always 0 if its success
-*/
+ * main - Determines if a number is positive, negative or zero.
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
