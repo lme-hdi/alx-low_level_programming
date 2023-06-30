@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * print_diagonal - the function that draws a diagonal line on the terminal.
