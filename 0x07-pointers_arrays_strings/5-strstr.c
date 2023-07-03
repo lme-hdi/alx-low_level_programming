@@ -7,7 +7,7 @@
  * @haystack: input string to search for matching substrings.
  * @needle: subtring to search for.
  *
- * Return: a pointer to the beginning of the located substring or NULL 
+ * Return: a pointer to the beginning of the located substring or NULL
  * if substring is not found.
 */
 
