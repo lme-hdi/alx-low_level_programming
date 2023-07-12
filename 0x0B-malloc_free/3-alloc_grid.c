@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * **alloc_grid - the function that creates a two dimensional array of integers.
+ * **alloc_grid - the function that creates a 2 dimensional array of integers.
  * @width: the width of the matrix.
  * @height: the height of the matrix.
  *
